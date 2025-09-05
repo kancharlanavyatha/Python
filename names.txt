@@ -1,0 +1,5 @@
+& "C:/Users/NAGESHWARA RAO/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/NAGESHWARA RAO/Desktop/python/filehandling.py"
+maya
+mimi
+kookoo
+taetae
